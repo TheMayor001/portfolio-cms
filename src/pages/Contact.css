@@ -1,0 +1,27 @@
+/* Contact.css */
+.contact {
+  padding: 2rem;
+  background-color: #fff;
+  border-left: 4px solid #ff9800;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact h2 {
+  color: #222;
+  margin-bottom: 1rem;
+}
+
+.contact p {
+  margin: 0.5rem 0;
+  color: #555;
+}
+
+.contact a {
+  color: #ff9800;
+  text-decoration: none;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}

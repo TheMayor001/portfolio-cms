@@ -1,0 +1,17 @@
+/* About.css */
+.about {
+  padding: 2rem;
+  background-color: #fff;
+  border-left: 4px solid #2196f3;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.about h2 {
+  color: #222;
+}
+
+.about p {
+  color: #444;
+  line-height: 1.6;
+}
